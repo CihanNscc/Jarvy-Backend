@@ -4,8 +4,6 @@ Jarvy is a dynamic AI assistant powered by OpenAI's GPT-4, integrated with vario
 
 ## Key Features:
 
-**Conversation History:** Jarvy maintains a conversation history stored in MongoDB, allowing for context-aware responses.
-
 **Personalization:** The assistant can fetch user-specific data, including personal details and notes, to tailor responses.
 
 **Weather Information:** Users can request up-to-date weather information based on a fixed location.
